@@ -77,7 +77,7 @@ uv run python ingest_data.py \
   --pg-host=localhost \
   --pg-port=5432 \
   --pg-db=ny_taxi \
-  --target-table=yellow_taxi_trips
+  --target-table=yellow_taxi_data
 ```
 
 **[↑ Up](README.md)** | **[← Previous](05-data-ingestion.md)** | **[Next →](07-pgadmin.md)**
